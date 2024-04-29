@@ -33,6 +33,42 @@ This is a Netflix clone project that allows users to browse and watch movies. It
 ![SearchPage](src/assets/SearchPage.png)
 
 
+## Project Live Demo
+
+- Check out the live demo of the Netflix-Clone [here](https://netflix-clone-frontend-blush.vercel.app/).
+
+## Important Notice: Movie Poster Loading Issue
+
+### Overview
+When using our application, you may encounter difficulties loading movie posters due to occasional issues with the Movie Database (TMDb) website. To ensure seamless poster loading on your desktop or laptop, we recommend configuring your network settings as follows:
+
+### Steps to Configure Network Settings:
+
+1. **Open Control Panel:** Access the Control Panel on your system.
+   
+2. **Navigate to Network and Internet:** Click on "Network and Internet" settings.
+   
+3. **Access Network and Sharing Center:** Proceed to the "Network and Sharing Center."
+   
+4. **Select Your Wi-Fi Connection:** Locate and click on your Wi-Fi connection.
+   
+5. **Access Connection Properties:** Click on "Properties" for your selected connection.
+   
+6. **Configure DNS Settings**:
+   - Locate "Internet Protocol Version 4 (TCP/IPv4)" and click on it.
+   - Select "Use the following DNS server addresses."
+   - Enter the following DNS server addresses:
+     - Preferred DNS server: 8.8.8.8
+     - Alternate DNS server: 8.8.0.0
+
+By following these steps, you can optimize your network settings to enhance the reliability of movie poster loading within our application.
+
+Should you have any further queries or encounter any difficulties, please don't hesitate to contact our support team for assistance.
+
+Thank you for your understanding and cooperation.
+
+
+
 
 
 ## Table of Contents
@@ -52,9 +88,18 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
+- Frontend Clone
+
 ```bash
-git clone <repository-url>
+git clone https://github.com/Saurabh-Sharma-1999/NetflixClone_Frontend.git
 ```
+- Backend Clone
+
+```bash
+git clone https://github.com/Saurabh-Sharma-1999/NetflixClone_Backend.git
+```
+
+
 
 2. Navigate to the backend directory:
 
@@ -74,6 +119,7 @@ npm install
 ```bash
 PORT=
 ATLAS_URL=
+SECRET=
 ```
 
 5. Start the backend server:
@@ -132,7 +178,7 @@ Contributions to this project are welcome. Feel free to open issues and pull req
 
 ## Thank You
 
-Thank you for checking out this Netflix clone project! If you have any questions, suggestions, or feedback, feel free to [open an issue](https://github.com/your-username/your-repository/issues) or [contact me](saurabh7411sharma@gmail.com). Happy coding!
+Thank you for checking out this Netflix clone project! If you have any questions, suggestions, or feedback, feel free to [open an issue](https://github.com/Saurabh-Sharma-1999/NetflixClone_Frontend/issues) or [contact me](saurabh7411sharma@gmail.com). Happy coding!
 
 
 
