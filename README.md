@@ -6,31 +6,31 @@ This is a Netflix clone project that allows users to browse and watch movies. It
 
 ### Signup Page
 
-![Signup Page ](netflix/src/assets/Signup.png)
+![Signup Page ](src/assets/Signup.png)
 
 ### Login Page
 
-![Login Page](netflix/src/assets/Login.png)
+![Login Page](src/assets/Login.png)
 
 ### BrowsePage
 
-![BrowsePage](netflix/src/assets/BrowsePage.png)
+![BrowsePage](src/assets/BrowsePage.png)
 
 ### MovieList
 
-![MovieList](netflix/src/assets/MoviesList.png)
+![MovieList](src/assets/MoviesList.png)
 
 ### MovieList2
 
-![MovieList2](netflix/src/assets/MovieList2.png)
+![MovieList2](src/assets/MovieList2.png)
 
 ### AfterPlay
 
-![AfterPlay](netflix/src/assets/AfterPlay.png)
+![AfterPlay](src/assets/AfterPlay.png)
 
 ### SearchPage
 
-![SearchPage](netflix/src/assets/SearchPage.png)
+![SearchPage](src/assets/SearchPage.png)
 
 
 
