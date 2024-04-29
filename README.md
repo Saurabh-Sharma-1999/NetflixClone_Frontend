@@ -63,7 +63,7 @@ When using our application, you may encounter difficulties loading movie posters
 
 By following these steps, you can optimize your network settings to enhance the reliability of movie poster loading within our application.
 
-Should you have any further queries or encounter any difficulties, please don't hesitate to contact our support team for assistance.
+Should you have any further queries or encounter any difficulties, please don't hesitate to [contact me](saurabh7411sharma@gmail.com) for assistance.
 
 Thank you for your understanding and cooperation.
 
